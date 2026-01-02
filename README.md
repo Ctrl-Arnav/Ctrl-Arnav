@@ -1,8 +1,8 @@
-## Hi👋 I'm Arnav
+## Hi there👋 I'm Arnav
 
 I'm an Engineering student interested in AI & System Design.
 
-Here are some ideas to get you started:
+Crave to master what I learn
 
 ###  Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white)
