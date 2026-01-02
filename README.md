@@ -1,4 +1,4 @@
-## Hi there👋 I'm Arnav
+## Hi there👋 I'm Arnav :)
 
 I'm an Engineering student interested in AI & System Design.
 
